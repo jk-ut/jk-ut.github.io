@@ -1,0 +1,32 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+/* Create a class, apply it to at least two elements, and style it */
+.section {
+	background-color: #f2f2f2;
+	border: 1px solid #ddd;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+/* Create an id, apply it to an element, and style it */
+#description {
+	font-style: italic;
+}
+
+/* Change the color of a when hover */
+a:hover {
+	color: red;
+}
+
+/* Change at least two box model properties of any tag, class, or id */
+.section h2 {
+	margin-bottom: 10px;
+}
+
+.section p {
+	line-height: 1.5;
+}
